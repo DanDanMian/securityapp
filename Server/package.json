@@ -1,0 +1,15 @@
+{
+  "name": "SecurityApplicationWebServer",
+  "description": "Server For Security Application",
+  "repository": "",
+  "license": "MIT",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "~4.9.8",
+    "mongoose": "^4.12.2"
+  }
+}
